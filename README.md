@@ -25,3 +25,6 @@ Praktická ukázka programu v Pythonu, který implementuje několik z výše zm�
 
 ## Odkaz na prezentaci
 https://1drv.ms/p/s!Ajtcv5NNAjbxgbw-TBqBfV4P-5r4vQ?e=pcmxzm
+
+## Odkaz na demostránku
+https://cislo-pi.netlify.app/
